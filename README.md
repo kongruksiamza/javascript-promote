@@ -26,8 +26,7 @@ https://youtube.com/playlist?list=PLltVQYLz1BMBezCn1FldaKLXq8S92q2w6
 เนื้อหาสำหรับ Family ทั้งหมด :
 https://www.youtube.com/c/KongRuksiamOfficial/playlists?view=50&sort=dd&shelf_id=1
 
-
-2. เรียนผ่านกลุ่ม Facebook
+2.เรียนผ่านกลุ่ม Facebook
 สามารถดูรายละเอียดและลงทะเบียนได้ที่
 https://forms.gle/HuN9nH6gysuVTW1j6
 (จำนวนจำกัด)
