@@ -6,7 +6,7 @@
 📌 สามารถเข้าเรียนได้ที่ :
 https://www.youtube.com/c/KongRuksiamOfficial/playlists?view=50&sort=dd&shelf_id=3
 
-## 📌 สำหรับท่านที่สนใจเนื้อหา JavaScript 30 Workshop
+## 📌 สำหรับท่านที่สนใจเนื้อหา JavaScript 30 Workshop (ทุกเนื้อหา)
 
 🎬 ดูตัวอย่างเนื้อหา JavaScript 30 Workshop ได้ที่ : <br />
 ✅ https://youtu.be/TeGK6g6DQoM <br />
