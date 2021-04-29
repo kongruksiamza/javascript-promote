@@ -1,4 +1,4 @@
-# JavaScript 30 Workshop
+# โปรโมชั่นคอร์สเรียน
 
 **หัวข้อนี้เป็นส่วนหนึ่งของ
 เนื้อหา JavaScript 30 Workshop
